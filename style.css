@@ -1,0 +1,110 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    font-size: 14px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    margin-bottom: 10px;
+}
+img{
+    width: 100%;
+}
+.main-color{
+    color: #F86B61;
+}
+.main-bg{
+    background: #F86B61;
+}
+.margin-0{
+    margin-top: -45px;
+}
+.about{
+    height: 500px;
+}
+.latest-work{
+    background: #F8F9FC;
+    padding: 40px 0;
+    height: 645px;
+    margin-bottom: 100px;
+}
+.latest-work h1{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+
+
+
+.tob-bar{
+    height: 500px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.width-30{
+    width: 27%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+}
+.hire-btn{
+    padding: 15px 30px;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-top: 15px;
+}
+.man-img{
+    width: 80%;
+}
+.single-project{
+    padding: 20px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 50px #dbdbdb;
+}
+.contact{
+    width: 52%;
+    margin-left: 24%;
+    background-image: url(webimg/Group_33094_1.png);
+    height: 158px;
+    border-radius: 40px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+.contact h1{
+    color: #fff;
+}
+
+.contact button{
+    margin-top: 57px;
+    float: right;
+}
+footer h3{
+    font-family: 'Oswald', sans-serif;
+    color: dimgray;
+}
+footer h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+footer img{
+    width: 50px;
+    margin-right: 10px;
+}
+.footer-img{
+    width:190px;
+    margin: auto;
+}
+
+
